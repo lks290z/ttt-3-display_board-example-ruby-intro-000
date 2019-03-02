@@ -1,7 +1,7 @@
-define display_board
-  puts "   |    | "
+def display_board
+  puts "   |    |  "
   puts "-----------"
-  puts "   |    | "
+  puts "   |    |  "
   puts "-----------"
-  puts "   |    | "
+  puts "   |    |  "
 end
