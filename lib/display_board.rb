@@ -4,3 +4,4 @@ define display_board
   puts "   |    | "
   puts "-----------"
   puts "   |    | "
+end
